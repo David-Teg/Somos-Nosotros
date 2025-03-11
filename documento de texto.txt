@@ -1,0 +1,14 @@
+5/06/24
+ACLARACION: La pagina fue hecha con los videos hasta el dia 3/5, no hubo implementacion de ideos de 5/6 
+
+CAMBIOS:
+
+-Cambie la fuentes de : p,h1,h2,h3,etc.
+
+-Agregue colores a diferetes fuentes
+
+-Agregue estilos de bordes
+
+nota: falta agregar más comentarios
+
+Cualquier corrección sobre la documentacion aviseme por favor. Soy pesimo documentando cosas.
